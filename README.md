@@ -1,4 +1,2 @@
-# basketball-trainer-database
+# Basketball Trainer Database
 This database represents client and scheduling information for a basketball training group. Trainer information is collected to assign trainers to lead training sessions. Player information is collected to allow players to enroll in training sessions. Drills are assigned difficulty levels and are selected based on a player's grade and skill level by the trainer. Players participate in drills and are coached by the trainer.
-
-# 
